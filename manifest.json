@@ -1,0 +1,1896 @@
+{
+  "schemaVersion": 1,
+  "site": {
+    "title": "My Little Shelf",
+    "introduction": "读过的书 · 玩过的游戏 · 留下的心情",
+    "language": "zh-CN"
+  },
+  "settings": {
+    "wideBookMinPages": 320,
+    "defaultSort": "recordedAt"
+  },
+  "assets": {
+    "decor-cat": {
+      "path": "assets/decor-cat.png",
+      "width": 446,
+      "height": 700,
+      "alt": "原创书架摆件",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "decor-cactus": {
+      "path": "assets/decor-cactus.png",
+      "width": 421,
+      "height": 719,
+      "alt": "原创书架摆件",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "decor-candle": {
+      "path": "assets/decor-candle.png",
+      "width": 359,
+      "height": 456,
+      "alt": "原创书架摆件",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "decor-plant": {
+      "path": "assets/decor-plant.png",
+      "width": 635,
+      "height": 759,
+      "alt": "原创书架摆件",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "cover-book": {
+      "path": "assets/cover-book.png",
+      "width": 1024,
+      "height": 1536,
+      "alt": "原创示例插画",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "cover-game": {
+      "path": "assets/cover-game.png",
+      "width": 1024,
+      "height": 1024,
+      "alt": "原创示例插画",
+      "source": "本站原创生成示例，不是实际作品封面"
+    },
+    "image-ba4e447f-562": {
+      "path": "assets/image-ba4e447f-562-13fb704dbab92cf1.webp",
+      "width": 640,
+      "height": 476,
+      "alt": "v2-0ababef11eb29544c86c0cf2bd2fa84f_1440w.jpg",
+      "source": ""
+    },
+    "image-8e7b6d04-f98": {
+      "path": "assets/image-8e7b6d04-f98-379268da75c3b0f4.webp",
+      "width": 1024,
+      "height": 1024,
+      "alt": "c-gray-snow-back-view.png",
+      "source": ""
+    },
+    "image-bbcd7e57-b91": {
+      "path": "assets/image-bbcd7e57-b91-dbf7054e7b544145.webp",
+      "width": 800,
+      "height": 600,
+      "alt": "4150.jpg",
+      "source": ""
+    }
+  },
+  "items": [
+    {
+      "id": "book-1",
+      "title": "人间的片刻",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 4.64,
+      "recordedAt": "2026-10-01",
+      "completedAt": null,
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-0-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-0-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。\n\n我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。\n\n我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-0-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。\n哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-0",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-0",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-0",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "active",
+      "pageCount": 180,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#6d42ae",
+      "coverAssetId": "cover-book"
+    },
+    {
+      "id": "book-2",
+      "title": "山间来信",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.3,
+      "recordedAt": "2026-10-02",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-1-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-1-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-1-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-1",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-1",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-1",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 215,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "short",
+      "bodyColor": "#7798b6",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-3",
+      "title": "夜航手记",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 3.87,
+      "recordedAt": "2026-10-03",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-2-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-2-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-2-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-2",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-2",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-2",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 250,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#dcad58",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-4",
+      "title": "橘色的风",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.9,
+      "recordedAt": "2026-10-04",
+      "completedAt": null,
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-3-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-3-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-3-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-3",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-3",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-3",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "active",
+      "pageCount": 285,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#ce8162",
+      "coverAssetId": "cover-book"
+    },
+    {
+      "id": "book-5",
+      "title": "漫长的午后",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 4.64,
+      "recordedAt": "2026-10-05",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-4-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-4-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-4-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-4",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-4",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-4",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 320,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#a497b7",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-6",
+      "title": "森林之外",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.3,
+      "recordedAt": "2026-10-06",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-5-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-5-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-5-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-5",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-5",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-5",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 355,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "short",
+      "bodyColor": "#8b9e77",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-7",
+      "title": "雨天的散步",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 3.87,
+      "recordedAt": "2026-10-07",
+      "completedAt": null,
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-6-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-6-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-6-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-6",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-6",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-6",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "active",
+      "pageCount": 390,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#7798b6",
+      "coverAssetId": "cover-book"
+    },
+    {
+      "id": "book-8",
+      "title": "小岛日记",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.9,
+      "recordedAt": "2026-10-08",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-7-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-7-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-7-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-7",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-7",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-7",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 425,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#dcad58",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-9",
+      "title": "走过四季",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 4.64,
+      "recordedAt": "2026-10-09",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-8-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-8-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-8-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-8",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-8",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-8",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 460,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#ce8162",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-10",
+      "title": "一间自己的房间",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.3,
+      "recordedAt": "2026-10-10",
+      "completedAt": null,
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-9-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-9-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-9-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-9",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-9",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-9",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "active",
+      "pageCount": 495,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "short",
+      "bodyColor": "#a497b7",
+      "coverAssetId": "cover-book"
+    },
+    {
+      "id": "book-11",
+      "title": "远方的灯",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": null,
+      "recordedAt": "2026-10-11",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-10-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-10-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-10-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-10",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-10",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-10",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 530,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#8b9e77",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-12",
+      "title": "月亮与海",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "生活",
+        "随想"
+      ],
+      "rating": 4.9,
+      "recordedAt": "2026-10-12",
+      "completedAt": "2026-10-18",
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-11-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-11-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-11-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-11",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-11",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-11",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "completed",
+      "pageCount": 565,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#7798b6",
+      "coverAssetId": null
+    },
+    {
+      "id": "book-13",
+      "title": "缓慢生活",
+      "creators": [
+        "示例作者"
+      ],
+      "tags": [
+        "文学",
+        "自然"
+      ],
+      "rating": 4.64,
+      "recordedAt": "2026-10-13",
+      "completedAt": null,
+      "summary": "在平凡的日子里，留下一点值得记住的光。",
+      "review": [
+        {
+          "id": "review-12-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是一条原创演示记录，不代表对任何真实作品的评价。日常的片刻被轻轻拾起，像是夹在书页里的一片叶子。读到这里时，我想起了一个安静的午后。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-12-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "我喜欢那些不急于给出答案的段落。它们留出空白，让人把自己的经历放进去。合上书以后，故事的节奏仍然在心里慢慢继续。",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "id": "review-12-3",
+          "type": "paragraph",
+          "spoiler": true,
+          "content": [
+            {
+              "type": "text",
+              "text": "这一段用来演示剧透保护。实际使用时，可以逐段标记；默认阅读和图片分享都不会自动展开它。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-12",
+          "kind": "reflection",
+          "title": "关于慢下来",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-12",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "不必把每一天都填满。留一点空间给散步、发呆，以及没有目的的阅读。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "note-comment-12",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条个人随想，不是作品摘录。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "visibility": "public",
+      "kind": "book",
+      "status": "active",
+      "pageCount": 600,
+      "thicknessMode": "auto",
+      "manualThickness": "regular",
+      "height": "regular",
+      "bodyColor": "#dcad58",
+      "coverAssetId": "cover-book"
+    },
+    {
+      "id": "game-1",
+      "title": "午夜电台",
+      "creators": [
+        "独立工作室（示例）"
+      ],
+      "tags": [
+        "独立游戏",
+        "叙事"
+      ],
+      "rating": 4.6,
+      "recordedAt": "2026-09-20",
+      "completedAt": "2026-10-10",
+      "summary": "走进一个虚构的世界，把喜欢的瞬间留在这里。",
+      "review": [
+        {
+          "id": "game-review-0",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是原创的游戏演示感想，不是任何真实游戏的评价。慢慢探索、停下来听一段音乐，就是这段虚构旅程中最想留下的记忆。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "game-demo-note-atmosphere",
+          "kind": "observation",
+          "title": "示例 · 夜色与电台",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "game-demo-atmosphere-1",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是一条原创排版示例，不代表真实游戏内容或个人游玩经历。",
+                  "marks": [
+                    "italic"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "game-demo-atmosphere-2",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "画面可以留白，记录也可以很短。这里放一条关于色彩、音乐与氛围的观察，看看便签贴在游玩小册子上的感觉。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": []
+        },
+        {
+          "id": "game-demo-note-reflection",
+          "kind": "reflection",
+          "title": "示例 · 给旅途留一点空白",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "game-demo-reflection-1",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "慢一点，也没关系。",
+                  "marks": [
+                    "bold"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "便签不必写成完整的长评，可以只留一个念头，或一句想要以后再读到的话。",
+                  "marks": []
+                }
+              ]
+            },
+            {
+              "id": "game-demo-reflection-2",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这一页用于演示粗体、段落与批注的搭配，不是实际游玩感想。",
+                  "marks": [
+                    "italic"
+                  ]
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": [
+            {
+              "id": "game-demo-reflection-comment",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "示例批注：正文下面可以另留一小段补充，和当时记下的内容分开。",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "game-demo-note-spoiler",
+          "kind": "observation",
+          "title": "示例 · 剧透折叠",
+          "spoiler": true,
+          "body": [
+            {
+              "id": "game-demo-spoiler-1",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "这是折叠区的演示内容，不包含真实剧情。正式使用时，可以把涉及结局、人物关系或解谜过程的笔记放在这里，让读者自行决定是否展开。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": []
+        }
+      ],
+      "visibility": "public",
+      "kind": "game",
+      "status": "completed",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "releasedAt": null,
+      "caseColor": "#8b9e77",
+      "discColor": "#7798b6",
+      "stylizedCoverAssetId": "cover-game",
+      "originalImageAssetId": null,
+      "originalImageSpoiler": false
+    },
+    {
+      "id": "game-2",
+      "title": "归途",
+      "creators": [
+        "独立工作室（示例）"
+      ],
+      "tags": [
+        "独立游戏",
+        "探索"
+      ],
+      "rating": 4.25,
+      "recordedAt": "2026-09-21",
+      "completedAt": "2026-10-10",
+      "summary": "走进一个虚构的世界，把喜欢的瞬间留在这里。",
+      "review": [
+        {
+          "id": "game-review-1",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是原创的游戏演示感想，不是任何真实游戏的评价。慢慢探索、停下来听一段音乐，就是这段虚构旅程中最想留下的记忆。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [],
+      "visibility": "public",
+      "kind": "game",
+      "status": "completed",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "releasedAt": null,
+      "caseColor": "#7798b6",
+      "discColor": "#dcad58",
+      "stylizedCoverAssetId": "cover-game",
+      "originalImageAssetId": null,
+      "originalImageSpoiler": false
+    },
+    {
+      "id": "game-3",
+      "title": "静默之城",
+      "creators": [
+        "独立工作室（示例）"
+      ],
+      "tags": [
+        "独立游戏",
+        "叙事"
+      ],
+      "rating": 4.8,
+      "recordedAt": "2026-09-22",
+      "completedAt": "2026-10-10",
+      "summary": "走进一个虚构的世界，把喜欢的瞬间留在这里。",
+      "review": [
+        {
+          "id": "game-review-2",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是原创的游戏演示感想，不是任何真实游戏的评价。慢慢探索、停下来听一段音乐，就是这段虚构旅程中最想留下的记忆。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [],
+      "visibility": "public",
+      "kind": "game",
+      "status": "completed",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "releasedAt": null,
+      "caseColor": "#dcad58",
+      "discColor": "#ce8162",
+      "stylizedCoverAssetId": "cover-game",
+      "originalImageAssetId": null,
+      "originalImageSpoiler": false
+    },
+    {
+      "id": "game-4",
+      "title": "小小旅人",
+      "creators": [
+        "独立工作室（示例）"
+      ],
+      "tags": [
+        "独立游戏",
+        "探索"
+      ],
+      "rating": 0,
+      "recordedAt": "2026-09-23",
+      "completedAt": "2026-10-10",
+      "summary": "走进一个虚构的世界，把喜欢的瞬间留在这里。",
+      "review": [
+        {
+          "id": "game-review-3",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "这是原创的游戏演示感想，不是任何真实游戏的评价。慢慢探索、停下来听一段音乐，就是这段虚构旅程中最想留下的记忆。",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [],
+      "visibility": "public",
+      "kind": "game",
+      "status": "completed",
+      "platforms": [
+        "PC",
+        "Switch"
+      ],
+      "releasedAt": null,
+      "caseColor": "#ce8162",
+      "discColor": "#a497b7",
+      "stylizedCoverAssetId": "cover-game",
+      "originalImageAssetId": null,
+      "originalImageSpoiler": false
+    },
+    {
+      "id": "game-swan-song",
+      "title": "SWAN SONG",
+      "creators": [
+        "FlyingShine",
+        "濑户口廉也"
+      ],
+      "tags": [
+        "AVG",
+        "灾难",
+        "群像剧",
+        "r18",
+        "多主控"
+      ],
+      "rating": 4.95,
+      "recordedAt": "2026-10-22",
+      "completedAt": "2026-08-15",
+      "summary": "读得很痛苦但是是神作",
+      "review": [
+        {
+          "id": "paragraph-b845dc4e-deb",
+          "type": "paragraph",
+          "spoiler": false,
+          "content": [
+            {
+              "type": "text",
+              "text": "其实玩的时候体验很糟糕，因为某些不当人的作者写了很多不当人的剧情。但因为ne结局和我最喜欢长篇心理描写，让我通关好几天里都反复回想，还是觉得它是符合神作的标准。\n\n这种末日题材一向是我喜欢的类型，作者把世界推到崩溃边缘。这个世界没有奇迹，而作者重点描写了在这样一个濒临灭亡的世界里，人如何活下去。这个题材本身就很引人遐想，如果没有法律，道德还会存在吗，人性中的善还能存在吗，人在这样的世界里还能找到求生的意义吗。但作者对这些问题的回答几乎是残忍的，随着故事的发展，我们逐渐看到，道德崩坏，人性中的恶被无限放大，善良似乎失去存在的价值，因为你的善良和信任会被利用，不去杀死别人就会被杀；然后直到故事的最后，所有罪恶痛苦杀戮都被雪崩掩盖，好像一切都没有意义。所有费劲力气求生的人都被雪给埋了，只有内心如同这个世界一样一片虚无的柚香活了下来，好像这个世界只容得下虚无，而容不下意义。\n\n其实这个作品很有现实映射的味道，寺庙里的人开始都相信龙华树，但最后信仰崩塌后，她们疯狂指责这个曾经用谎言帮助她们活到现在的人，并把龙华树交到了敌营，以求活命。其实她们是最没有信仰的人，表面上很虔诚，实际上只是想要有人给她们编织一个虚假的梦，而这个提供梦的人是谁都可以；作者对这个片段的描写非常现实，也残忍，而最后这些人的结局也是同样的悲惨。然而作者对宗教并不是批判的态度，甚至相比于学校的失序反而是更偏正面的，宗教能帮人在末日中更快地建立秩序，而也能包容失序之后误入迷途的人。我想作者想说的是，我们可以去相信，但是不能盲信，我们需要为自己的相信负责。龙华树只是一个普通人，但她因为别人的相信被推上神坛，但她其实没有义务帮助别人编织美梦。星野是信徒中的正面形象，她信任龙华树，但并不是信任那些教义，她没有让教义蒙住双眼，而是选择相信和守护龙华树的选择（非常好嗑）。\n\n也很想写一下柚香这个角色，这个角色和别的角色不一样，多数时候都处在一个被动的地位。她似乎一直按照别人的期待去扮演一个角色，这或许和她小时候的经历有关，虽然有想献上生命去完成的事业，但是很快发现这条路走不通，她不是钢琴这个舞台上的主角，所以她选择放弃了钢琴，作为一个平凡人活下去。但是这个角色身上的虚无底色是很重的，因为她从来没有为自己想要的东西活过；而司却恰恰站在反面，他是从来只为自己的理想而活的，而客观条件都无法阻止他追求理想。所以柚香会被司吸引，可能也是隐隐希望自己可以活成司的样子。而这样的角色在主动选择什么的时候就是很有意思，她最后找拓马就是这样的时刻。在去找拓马的时候，她已经下定决心去死了；而去找拓马，是她觉得可以死得最有意义的方式: 最差她可以了解拓马为什么有这样的转变，如果运气好的话，如果人性还存在拓马体内，她或许可以说服拓马不要杀云雀和司，而代价只是这一条她已经不需要的性命。从这里就可以看出，她其实并不是一个如自己所说的冷漠的人，她爱她的朋友们，也很勇敢地为她爱的人赌上生命。\n\n最后拓马和柚香的问答，就是柚香在努力想让拓马回想起他成为这样一个残忍的独裁者前的自己。那种生活和现在这种疯狂的状态没有半点关系的，可惜的是我们没法看到柚香的视角，但从拓马的视角，我们可以看出这种对话是有效的，它让拓马从疯狂中暂停下来，回想起他曾经追求的东西。除了杀和被杀，强暴和被强暴，人和人之间居然还存在这样简简单单的关系。而原来拓马追求的从来不是凌驾于他人之上，而只是被关心被需要被理解，他绕了那么远的路，用使他人臣服的方式来获得注意，到头来发现想要的东西原来一开始就拥有。可是此时一切都回不去了。\n\n而全篇的最高潮在结尾，濒死的司和柚香见到了在地震中死去的芦荟，和芦荟留下的最后也是唯一的一件雕塑作品，用碎石拼成的耶稣像。其实看到这里之前，作品的虚无感已经很重了，这样乱七八糟的故事，回想起来只有很多的绝望和少数的快乐瞬间，还有地狱绘图般的结局，这样的人生值得一过吗？作者没有给任何安慰，而是借死去芦荟的最后的作品回答了这个问题，结尾的那个塑像就是我的人生，虽然客观而言可能一塌糊涂，但是在我自己眼里也是美丽的，值得一过的。就像作者说的天鹅绝唱的比喻，虽然绝不可能好听，但在听者的耳里，却是美丽的。所以最后的结局，也让我和司融为一体，我只是静静地体会着他的死亡，体会着他的遗憾，然后还是想感叹一下，生命存在的本身就是美好的。\n\n其实这样的作品一直都是给我力量的，当我觉得再次陷入名为虚无的牢笼的时候，它提醒我看向我自己真正在意的东西，提醒我这些的集合才是我的人生。而我真正在意的东西，从来不在一些疯狂的追求中，而在平平淡淡的日常生活里。我想这是它给我这样普通人的关怀，它不会说，你是一个弱者，你的人生就不值得，而是拼出那个碎石雕像，然后说——去创造属于自己的人生吧!",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": "note-ef183ebc-8f6",
+          "kind": "quote",
+          "title": "醜い白鳥の死",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-02f286ac-5bf",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "私は思うのです。一生をあの絞め殺される寸前のような醜い声でしか啼けないとするならば、白鳥の声というのはみじめで救いのない声になってしまいます。でも、最後に美しい声で歌えるという物語をそこに作れば、たとえ誰もが嘘だと知っていたとしても、そこに希望を見いだすことが出来るのです。この伝説をモチーフに取り入れた先達は、それぞれの自分なりの思いをこの夢の歌に見ています。\n…… いや、嘘だと知っているからこそ、そこに隠された願いが、実際に聞こえている白鳥たちの鳴き声の醜ささえも美しく輝かせるのでしょう。それは見るものの心次第で色を変える孤独な美しさなのかもしれませんが。 …… 私はこのありかたこそが、祈りの本質だと考えています。切実なのに空虚で、哀しくはありますが、必要なのです。",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": []
+        },
+        {
+          "id": "note-7f708ebe-5ce",
+          "kind": "quote",
+          "title": "结尾的话",
+          "spoiler": false,
+          "body": [
+            {
+              "id": "note-body-e68424e3-bba",
+              "type": "paragraph",
+              "spoiler": false,
+              "content": [
+                {
+                  "type": "text",
+                  "text": "醜くても、愚かでも、誰だって人間は素晴らしいです。幸福じゃなくても、間違いだらけだとしても、人の一生は素晴らしいです",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "source": null,
+          "commentary": []
+        }
+      ],
+      "visibility": "public",
+      "kind": "game",
+      "status": "completed",
+      "platforms": [
+        "PC"
+      ],
+      "releasedAt": "2005-07-29",
+      "caseColor": "#0c0d0d",
+      "discColor": "#aebfcb",
+      "stylizedCoverAssetId": "image-8e7b6d04-f98",
+      "originalImageAssetId": "image-ba4e447f-562",
+      "originalImageSpoiler": false,
+      "originalImages": [
+        {
+          "assetId": "image-ba4e447f-562",
+          "spoiler": false,
+          "fit": "contain",
+          "focusX": 50,
+          "focusY": 50
+        },
+        {
+          "assetId": "image-bbcd7e57-b91",
+          "spoiler": false,
+          "fit": "cover",
+          "focusX": 50,
+          "focusY": 50
+        }
+      ],
+      "originalImageLayout": "equal"
+    }
+  ],
+  "shelf": {
+    "rows": [
+      {
+        "id": "row-1",
+        "width": 1000,
+        "clearance": 200,
+        "objects": [
+          {
+            "id": "group-spines",
+            "kind": "group",
+            "x": 40,
+            "presentation": "spine",
+            "gap": 7,
+            "itemIds": [
+              "book-1",
+              "book-2",
+              "book-3",
+              "book-4"
+            ]
+          },
+          {
+            "id": "plant-1",
+            "kind": "decoration",
+            "x": 855,
+            "presetId": "plant",
+            "scale": 1.2,
+            "description": ""
+          },
+          {
+            "id": "group-front-b",
+            "kind": "group",
+            "x": 545,
+            "presentation": "front",
+            "gap": 12,
+            "itemIds": [
+              "book-6"
+            ]
+          },
+          {
+            "id": "group-front-a",
+            "kind": "group",
+            "x": 370,
+            "presentation": "front",
+            "gap": 12,
+            "itemIds": [
+              "book-5"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-2",
+        "width": 1000,
+        "clearance": 200,
+        "objects": [
+          {
+            "id": "candle-1",
+            "kind": "decoration",
+            "x": 925,
+            "presetId": "candle",
+            "scale": 0.6,
+            "description": ""
+          },
+          {
+            "id": "cactus-1",
+            "kind": "decoration",
+            "x": 845,
+            "presetId": "cactus",
+            "scale": 0.8,
+            "description": ""
+          },
+          {
+            "id": "cat-1",
+            "kind": "decoration",
+            "x": 75,
+            "presetId": "cat",
+            "scale": 0.85,
+            "description": ""
+          },
+          {
+            "id": "group-19b560c6-854",
+            "kind": "group",
+            "x": 210,
+            "presentation": "front",
+            "gap": 17,
+            "itemIds": [
+              "game-2",
+              "game-3",
+              "game-4",
+              "game-swan-song"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "row-3",
+        "width": 1000,
+        "clearance": 200,
+        "objects": [
+          {
+            "id": "group-stack",
+            "kind": "group",
+            "x": 40,
+            "presentation": "stack",
+            "gap": 0,
+            "itemIds": [
+              "book-7",
+              "book-8",
+              "book-9"
+            ]
+          },
+          {
+            "id": "group-spines-b",
+            "kind": "group",
+            "x": 300,
+            "presentation": "spine",
+            "gap": 7,
+            "itemIds": [
+              "book-10",
+              "book-11",
+              "book-12"
+            ]
+          },
+          {
+            "id": "plant-2",
+            "kind": "decoration",
+            "x": 810,
+            "presetId": "plant",
+            "scale": 1,
+            "description": ""
+          }
+        ]
+      }
+    ]
+  }
+}
